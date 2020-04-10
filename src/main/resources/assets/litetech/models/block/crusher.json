@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "litetech:blocks/rfurnace_top",
+    "up": "litetech:blocks/rfurnace_top",
+    "north": "litetech:blocks/crusher_front",
+    "east": "litetech:blocks/rfurnace_side",
+    "south": "litetech:blocks/rfurnace_side",
+    "west": "litetech:blocks/rfurnace_side",
+    "particle": "litetech:blocks/rfurnace_top"
+  }
+}

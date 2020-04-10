@@ -1,0 +1,26 @@
+{
+  "group": "litetech",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "litetech:copperingot"
+    },
+    "2": {
+      "item": "litetech:copperingot"
+    },
+    "3": {
+      "item": "litetech:copperingot"
+    },
+    "5": {
+      "item": "litetech:copperingot"
+    }
+  },
+  "result": {
+    "item": "litetech:copperarmorboots",
+    "count": 1
+  }
+}

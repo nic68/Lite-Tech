@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+
+[[mods]]
+modId="litetech"
+version="1.0.0"
+displayName="Lite Tech"
+credits="Me"
+displayURL="https://mcreator.net"
+authors="TheRatMan"
+description='''
+A lightweight tech mod
+'''
+
+[[dependencies.litetech]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

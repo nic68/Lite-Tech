@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "litetech:block/crusher"
+    },
+    "facing=east": {
+      "model": "litetech:block/crusher",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "litetech:block/crusher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "litetech:block/crusher",
+      "y": 270
+    }
+  }
+}

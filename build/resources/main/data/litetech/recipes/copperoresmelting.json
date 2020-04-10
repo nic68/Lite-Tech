@@ -1,0 +1,11 @@
+{
+  "group": "litetech",
+  "type": "minecraft:smelting",
+  "experience": 0.4899999999999999,
+  "ingredient": {
+    "item": "litetech:copperore"
+  },
+  "result": {
+    "item": "litetech:copperingot"
+  }
+}

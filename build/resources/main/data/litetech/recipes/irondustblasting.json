@@ -1,0 +1,11 @@
+{
+  "group": "litetech",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "ingredient": {
+    "item": "litetech:irondust"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}

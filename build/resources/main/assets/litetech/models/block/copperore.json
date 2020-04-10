@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "litetech:blocks/copperore2",
+    "particle": "litetech:blocks/copperore2"
+  }
+}

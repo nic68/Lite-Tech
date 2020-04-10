@@ -1,0 +1,39 @@
+{
+  "group": "litetech",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "litetech:copperingot"
+    },
+    "2": {
+      "item": "litetech:copperingot"
+    },
+    "3": {
+      "item": "litetech:copperingot"
+    },
+    "4": {
+      "item": "litetech:copperingot"
+    },
+    "5": {
+      "item": "litetech:copperingot"
+    },
+    "6": {
+      "item": "litetech:copperingot"
+    },
+    "7": {
+      "item": "litetech:copperingot"
+    },
+    "8": {
+      "item": "litetech:copperingot"
+    }
+  },
+  "result": {
+    "item": "litetech:copperarmorbody",
+    "count": 1
+  }
+}

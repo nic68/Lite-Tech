@@ -1,0 +1,49 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "onSlotChanged": {
+            "name": "CrusherUpdateTick"
+          },
+          "name": "Slot #1",
+          "x": 300,
+          "y": 132
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "name": "Slot #2",
+          "x": 516,
+          "y": 132
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Crushing",
+          "color": {
+            "value": -10066330,
+            "falpha": 0.0
+          },
+          "name": "Crushing",
+          "x": 264,
+          "y": 78
+        }
+      }
+    ]
+  }
+}

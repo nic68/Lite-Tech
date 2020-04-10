@@ -1,0 +1,27 @@
+{
+  "group": "litetech",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "litetech:copperingot"
+    },
+    "1": {
+      "item": "litetech:copperingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "litetech:copperhoe",
+    "count": 1
+  }
+}
